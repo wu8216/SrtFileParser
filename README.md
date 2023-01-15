@@ -30,3 +30,8 @@ java UnicodeReadAndProcessFle 2023-01-15_08_54_05.136536
 
 - Q: The format is the input srt file does not have punctuation, why use Java instead of Python directly?
 - A: Need to run another Java program to parse and add punctions. This step can be done in Python, but no time to implement in Pyton. Let me know if anyone needs me to do so.
+
+- Q: Any sample vidoes with subtitles?
+- A: Two Youtube channels with many videos:
+-    Technology QA Channel: https://www.youtube.com/@TechnologyQA
+-    Daily Journal Note Channel: https://www.youtube.com/@DailyJournalNote
